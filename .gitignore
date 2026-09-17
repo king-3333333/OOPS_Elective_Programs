@@ -1,0 +1,18 @@
+# C/C++ compiled files
+*.o
+*.obj
+*.exe
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# IDE files
+.vscode/
+.vs/
+
+# Temporary files
+*.tmp
+*.log

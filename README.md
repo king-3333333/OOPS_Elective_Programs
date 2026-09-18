@@ -5,6 +5,19 @@ This repository contains the C++ programs developed as part of my **Object-Orien
 The programs progress from basic C++ programming concepts to classes, constructors, static members, friend functions, and inheritance.
 
 ---
+---
+
+## 👨‍🎓 Student Details
+
+| Field        | Details             |
+| ------------ | ------------------- |
+| **Name**     | Kingson P Caleb D N |
+| **Roll No.** | 632                 |
+| **Division** | F                   |
+| **SRN**      | 01FE23BEC331        |
+| **Semester** | VII                 |
+
+---
 
 ## 📁 Repository Structure
 

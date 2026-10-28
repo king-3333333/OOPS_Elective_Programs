@@ -1,7 +1,4 @@
-import pypandoc
-from pathlib import Path
-
-readme = r'''# OOPS Elective – C++ Programs
+# OOPS Elective – C++ Programs
 
 This repository contains the C++ programs developed as part of my **Object-Oriented Programming (OOPS) Elective** coursework.
 

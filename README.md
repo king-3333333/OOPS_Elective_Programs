@@ -365,8 +365,3 @@ Electronics and Communication Engineering (ECE)
 ---
 
 ⭐ If this repository is useful for learning C++ OOPS concepts, feel free to star the repository.
-'''
-
-out = Path("/mnt/data/README_Updated.md")
-pypandoc.convert_text(readme, "md", format="md", outputfile=str(out), extra_args=["--standalone"])
-print(f"Created updated README: {out}")
